@@ -51,6 +51,6 @@ hero_media = ""
 #   label = '<a class="js-github-release" href="https://wowchemy.com/updates" data-repo="wowchemy/wowchemy-hugo-modules">Latest release<!-- V --></a>'
 +++
 
-**The Future of the Global Financial System is NOW...**
+<div align="center">**The Future of the Global Financial System is NOW...**</div>
 
-Be **Your Own Bank** with Bitcoin
+<div align="center">Be **Your Own Bank** with Bitcoin</div>
