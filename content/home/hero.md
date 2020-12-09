@@ -36,23 +36,23 @@ hero_media = "logo.jpg"
 # Call to action links (optional).
 #   Display link(s) by specifying a URL and label below. Icon is optional for `[cta]`.
 #   Remove a link/note by deleting a cta/note block.
-[cta]
-  url = "https://wowchemy.com/docs/install/"
-  label = "Get Started"
-  icon_pack = "fas"
-  icon = "download"
+# [cta]
+#  url = "https://wowchemy.com/docs/install/"
+#  label = "Get Started"
+#  icon_pack = "fas"
+#  icon = "download"
   
 [cta_alt]
-  url = "https://wowchemy.com"
-  label = "View Documentation"
+#  url = "https://wowchemy.com"
+#  label = "View Documentation"
 
 # Note. An optional note to show underneath the links.
-[cta_note]
-  label = '<a class="js-github-release" href="https://wowchemy.com/updates" data-repo="wowchemy/wowchemy-hugo-modules">Latest release<!-- V --></a>'
+# [cta_note]
+#   label = '<a class="js-github-release" href="https://wowchemy.com/updates" data-repo="wowchemy/wowchemy-hugo-modules">Latest release<!-- V --></a>'
 +++
 
 **The Future of the Global Financial System is NOW...**
 
 Be **Your Own Bank** with Bitcoin
 
-<span style="text-shadow: none;"><a class="github-button" href="https://github.com/wowchemy/wowchemy-hugo-modules" data-icon="octicon-star" data-size="large" data-show-count="true" aria-label="Star this on GitHub">Star</a><script async defer src="https://buttons.github.io/buttons.js"></script></span>
+# <span style="text-shadow: none;"><a class="github-button" href="https://github.com/wowchemy/wowchemy-hugo-modules" data-icon="octicon-star" data-size="large" data-# show-count="true" aria-label="Star this on GitHub">Star</a><script async defer src="https://buttons.github.io/buttons.js"></script></span>
