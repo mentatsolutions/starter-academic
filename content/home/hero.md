@@ -8,7 +8,7 @@ weight = 10  # Order that this section will appear.
 title = "Bitcoin = POWER"
 
 # Hero image (optional). Enter filename of an image in the `static/media/` folder.
-hero_media = "logo.jpg"
+hero_media = "codescreen.jpg"
 
 [design.background]
   # Apply a background color, gradient, or image.
@@ -25,7 +25,7 @@ hero_media = "logo.jpg"
   
   # Background image.
   image = "codescreen.jpg"  # Name of image in `static/media/`.
-  image_darken = 0.6  # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
+  image_darken = 0.4  # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
   image_size = "cover"  #  Options are `cover` (default), `contain`, or `actual` size.
   image_position = "center"  # Options include `left`, `center` (default), or `right`.
   image_parallax = true  # Use a fun parallax-like fixed background effect? true/false
@@ -54,5 +54,3 @@ hero_media = "logo.jpg"
 **The Future of the Global Financial System is NOW...**
 
 Be **Your Own Bank** with Bitcoin
-
-# <span style="text-shadow: none;"><a class="github-button" href="https://github.com/wowchemy/wowchemy-hugo-modules" data-icon="octicon-star" data-size="large" data-# show-count="true" aria-label="Star this on GitHub">Star</a><script async defer src="https://buttons.github.io/buttons.js"></script></span>
