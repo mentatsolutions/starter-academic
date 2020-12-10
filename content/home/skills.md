@@ -21,16 +21,35 @@ subtitle = ""
   description = "90%"
   
 [[feature]]
-  icon = "chart-line"
-  icon_pack = "fas"
-  name = "Statistics"
-  description = "100%"  
+  icon = "btc"
+  icon_pack = "fab"
+  name = "Bitcoin"
+  description = "80%"
   
 [[feature]]
-  icon = "camera-retro"
-  icon_pack = "fas"
-  name = "Photography"
+  icon = "linux"
+  icon_pack = "fab"
+  name = "Linux"
+  description = "60%"
+  
+[[feature]]
+  icon = "python"
+  icon_pack = "fab"
+  name = "Python"
+  description = "40%"  
+  
+[[feature]]
+  icon = "raspberry-pi"
+  icon_pack = "fab"
+  name = "Raspberry Pi"
+  description = "15%"
+
+[[feature]]
+  icon = "github"
+  icon_pack = "fab"
+  name = "Github"
   description = "10%"
+
 
 # Uncomment to use emoji icons.
 # [[feature]]
