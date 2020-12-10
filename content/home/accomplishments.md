@@ -19,15 +19,15 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[item]]
-  certificate_url: https://www.datacamp.com/statement-of-accomplishment/track/5fce361e10a84e69ee6a8d727b6e367061d2ec15
-  date_end: ""
-  date_start: "2017-12-01"
-  description: ""
   organization: "Datacamp"
-  organization_url: https://www.datacamp.com
+  organization_url: "https://www.datacamp.com"
   title: "Quantitative Analyst with R Career Track"
-  url: ""
-  
+  url = ""
+  certificate_url: "https://www.datacamp.com/statement-of-accomplishment/track/5fce361e10a84e69ee6a8d727b6e367061d2ec15"
+  date_start: "2017-12-01"
+  date_end: ""
+  description: ""
+    
   [[item]]
   organization = "Coursera"
   organization_url = "https://www.coursera.org"
@@ -39,12 +39,12 @@ date_format = "Jan 2006"
   description = ""
   
   [[item]]
-  certificate_url: https://www.datacamp.com/statement-of-accomplishment/course/8aca27e1ef019b5bc5879a3d0e148e3d393c7314
+  certificate_url: "https://www.datacamp.com/statement-of-accomplishment/course/8aca27e1ef019b5bc5879a3d0e148e3d393c7314"
   date_end: ""
   date_start: "2017-12-01"
   description: ""
   organization: "Datacamp"
-  organization_url: https://www.datacamp.com
+  organization_url: "https://www.datacamp.com"
   title: "Financial Trading in R"
   url: ""
   
