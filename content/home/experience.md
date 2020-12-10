@@ -48,6 +48,6 @@ date_format = "Jan 2006"
   location = "Gulf of Thailand"
   date_start = "2012-01-01"
   date_end = "2013-12-31"
-  description = """Well Site Supervision for Extended Reach Drilling Projects"""
+  description = """Drilling Supervision for Tender-Assist Rig in the Gulf of Thailand"""
 
 +++
