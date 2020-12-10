@@ -24,10 +24,10 @@ interests:
 
 education:
   courses:
-  - Graduate: MEng  Engineering
+  - course: MEng  Engineering
     institution: Colorado School of Mines
     # year: 2012
-  - Undergraduate: BSc in Petroleum Engineeering
+  - course: BSc in Petroleum Engineeering
     institution: Colorado School of Mines
     # year: 2009
 
