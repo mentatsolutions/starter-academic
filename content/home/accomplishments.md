@@ -5,7 +5,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 50  # Order that this section will appear.
 
-title = "Certificates and Courses"
+title = "Lifelong Learning"
 subtitle = ""
 
 # Date format
@@ -18,7 +18,57 @@ date_format = "Jan 2006"
 #   Leave other parameters empty if not required.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
-  [[item]]
+[[item]]
+  organization = "Udacity"
+  organization_url = "https://www.udacity.com"
+  title = "AI Product Manager Nanodegree"
+  url = ""
+  certificate_url = ""
+  date_start = "2020-05-01"
+  date_end = ""
+  description = ""
+
+[[item]]
+  organization = "Blockchain Council"
+  organization_url = "https://www.blockchain-council.org"
+  title = "Certified Cryptocurrency Trader"
+  url = ""
+  certificate_url = "https://www.credential.net/1af78cea-d9d2-4fd7-b8e4-05d0cc5e4b66#.XdmOphoNMwo.linkedin"
+  date_start = "2019-05-01"
+  date_end = ""
+  description = ""  
+ 
+[[item]]
+  organization = "Datacamp"
+  organization_url = "https://www.datacamp.com"
+  title = "Quantitative Analyst with R Career Track"
+  url = ""
+  certificate_url = "https://www.datacamp.com/statement-of-accomplishment/track/5fce361e10a84e69ee6a8d727b6e367061d2ec15"
+  date_start = "2017-12-01"
+  date_end = ""
+  description = ""
+
+[[item]]
+  organization = "Udemy"
+  organization_url = "https://www.udemy.com"
+  title = "Learn Python By Building A Blockchain And Cryptocurrency"
+  url = ""
+  certificate_url = "https://www.udemy.com/certificate/UC-REZN2Q6R/"
+  date_start = "2019-07-01"
+  date_end = ""
+  description = ""
+  
+[[item]]
+  organization = "IBM"
+  organization_url = "https://www.ibm.com"
+  title = "IBM Blockchain Essentials"
+  url = ""
+  certificate_url = "https://www.youracclaim.com/badges/065f157a-24d6-477a-b7ed-e2daaaf929ab/linked_in_profile"
+  date_start = "2018-02-01"
+  date_end = ""
+  description = ""  
+  
+[[item]]
   organization = "Datacamp"
   organization_url = "https://www.datacamp.com"
   title = "Data Science with R"
@@ -28,7 +78,6 @@ date_format = "Jan 2006"
   date_end = ""
   description = ""
   
- 
   [[item]]
   organization = "Datacamp"
   organization_url = "https://www.datacamp.com"
@@ -38,6 +87,65 @@ date_format = "Jan 2006"
   date_start = "2018-08-01"
   date_end = ""
   description = ""
-  
 
+[[item]]
+  organization = "Datacamp"
+  organization_url = "https://www.datacamp.com"
+  title = "Introduction to R for Finance"
+  url = ""
+  certificate_url = "https://www.datacamp.com/statement-of-accomplishment/course/b9b0ec02fb874e6f5483954655d6d33651e7ca77"
+  date_start = "2017-09-01"
+  date_end = ""
+  description = ""
+
+[[item]]
+  organization = "Datacamp"
+  organization_url = "https://www.datacamp.com"
+  title = "Intermediate R for Finance"
+  url = ""
+  certificate_url = "https://www.datacamp.com/statement-of-accomplishment/course/1751842cffcbb1d5f0b9f116accde1c6d66b5871"
+  date_start = "2017-09-01"
+  date_end = ""
+  description = ""
+
+[[item]]
+  organization = "Datacamp"
+  organization_url = "https://www.datacamp.com"
+  title = "Financial Trading in R"
+  url = ""
+  certificate_url = "https://www.datacamp.com/statement-of-accomplishment/course/8aca27e1ef019b5bc5879a3d0e148e3d393c7314"
+  date_start = "2017-12-01"
+  date_end = ""
+  description = ""
+
+[[item]]
+  organization = "Datacamp"
+  organization_url = "https://www.datacamp.com"
+  title = "Modeling with Data in the Tidyverse"
+  url = ""
+  certificate_url = "https://www.datacamp.com/statement-of-accomplishment/course/0df20f9892387d5f499c561d42e9215467e660e7"
+  date_start = "2018-08-01"
+  date_end = ""
+  description = ""
+
+[[item]]
+  organization = "Datacamp"
+  organization_url = "https://www.datacamp.com"
+  title = "Introduction to the Tidyverse"
+  url = ""
+  certificate_url = "https://www.datacamp.com/statement-of-accomplishment/course/3375ce9c61964cdf606cfcb6ac6f9295b84f912d"
+  date_start = "2018-08-01"
+  date_end = ""
+  description = ""
+
+[[item]]
+  organization = "Datacamp"
+  organization_url = "https://www.datacamp.com"
+  title = "Communicating with Data in the Tidyverse"
+  url = ""
+  certificate_url = "https://www.datacamp.com/statement-of-accomplishment/course/2f4143a92c2d3b6466df84343863525b21cf2829"
+  date_start = "2018-08-01"
+  date_end = ""
+  description = ""
+  
 +++
