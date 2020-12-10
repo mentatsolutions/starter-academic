@@ -121,10 +121,40 @@ date_format = "Jan 2006"
 [[item]]
   organization = "Datacamp"
   organization_url = "https://www.datacamp.com"
+  title = "Marketing Analytics in R Statistical Modeling"
+  url = ""
+  certificate_url = "https://www.datacamp.com/statement-of-accomplishment/coAI urse/479e43d18e561bc3cfa7fef27ddbd51af0b08014"
+  date_start = "2018-08-01"
+  date_end = ""
+  description = ""
+  
+[[item]]
+  organization = "Datacamp"
+  organization_url = "https://www.datacamp.com"
+  title = "Interactive Maps with Leaflet in R"
+  url = ""
+  certificate_url = "https://www.datacamp.com/statement-of-accomplishment/course/9de6813a82a8e1b7be122626327cf649472b3b65"
+  date_start = "2018-08-01"
+  date_end = ""
+  description = ""  
+
+[[item]]
+  organization = "Datacamp"
+  organization_url = "https://www.datacamp.com"
   title = "Modeling with Data in the Tidyverse"
   url = ""
   certificate_url = "https://www.datacamp.com/statement-of-accomplishment/course/0df20f9892387d5f499c561d42e9215467e660e7"
   date_start = "2018-08-01"
+  date_end = ""
+  description = ""
+
+[[item]]
+  organization = "Datacamp"
+  organization_url = "https://www.datacamp.com"
+  title = "Manipulating Time Series Data in R With xts & zoo"
+  url = ""
+  certificate_url = "https://www.datacamp.com/statement-of-accomplishment/course/381c576cf72abc0ceba6b92e0f18bb30c1368e53"
+  date_start = "2017-10-01"
   date_end = ""
   description = ""
 
