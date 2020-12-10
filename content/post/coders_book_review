@@ -3,8 +3,11 @@ title: "Coders - The Making of a New Tribe and the Remaking of the World (Book R
 diagram: yes
 date: '2020-11-18'
 math: no
-image:
-  caption: 'Image credit: [**Markus Spiske**]'
+
+# Optional header image (relative to `static/media/` folder).
+header:
+  caption: ""
+  image: "coders_thumb.png"
   placement: 3
   
 # View.
@@ -12,11 +15,6 @@ image:
 #   2 = Compact
 #   3 = Card
 view: 2
-
-# Optional header image (relative to `static/media/` folder).
-header:
-  caption: ""
-  image: "coders_thumb.png"
 ---
 
 # The Beginnings of Code:
