@@ -5,7 +5,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 50  # Order that this section will appear.
 
-title = "Accomplish&shy;ments"
+title = "Certificates and Courses"
 subtitle = ""
 
 # Date format
@@ -23,9 +23,9 @@ date_format = "Jan 2006"
   date_end: ""
   date_start: "2017-12-01"
   description: ""
-  organization: Datacamp
+  organization: "Datacamp"
   organization_url: https://www.datacamp.com
-  title: Quantitative Analyst with R - Career Track
+  title: "Quantitative Analyst with R Career Track"
   url: ""
   
   [[item]]
@@ -43,9 +43,9 @@ date_format = "Jan 2006"
   date_end: ""
   date_start: "2017-12-01"
   description: ""
-  organization: Datacamp
+  organization: "Datacamp"
   organization_url: https://www.datacamp.com
-  title: Financial Trading in R
+  title: "Financial Trading in R"
   url: ""
   
   [[item]]
