@@ -30,12 +30,12 @@ date_format = "Jan 2006"
   
  
   [[item]]
-  organization = "Coursera"
-  organization_url = "https://www.coursera.org"
-  title = "Neural Networks and Deep Learning"
+  organization = "Datacamp"
+  organization_url = "https://www.datacamp.com"
+  title = "Introduction to Machine Learning with R"
   url = ""
-  certificate_url = "https://www.coursera.org"
-  date_start = "2018-10-01"
+  certificate_url = "https://www.datacamp.com/statement-of-accomplishment/course/19784faf83352b576f2f6b14960a494fa646bb0d"
+  date_start = "2018-08-01"
   date_end = ""
   description = ""
   
