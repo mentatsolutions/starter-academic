@@ -14,12 +14,12 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include Bitcoin Analytics, Algorithmic Trading Research, and Blockchain Technology.
+bio: My interests include Bitcoin Technology, Algorithmic Trading Research, and Blockchain Analytics.
 
 interests:
-- Bitcoin Analytics
+- Bitcoin Technology
 - Algorithmic Trading
-- Blockchain Technology
+- Blockchain Analytics
 - RStudio, RShiny, TidyVerse
 
 education:
