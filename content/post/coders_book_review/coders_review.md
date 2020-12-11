@@ -3,7 +3,7 @@ title: "Coders - The Making of a New Tribe and the Remaking of the World (Book R
 diagram: yes
 date: '2020-11-18'
 math: no
-image:
+image: "featured.jpg"
   caption: 'Image credit: [**Markus Spiske**]'
   placement: 3
 ---
