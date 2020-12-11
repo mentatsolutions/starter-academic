@@ -2,6 +2,7 @@
 title: "Blockchain for Business (Book Review)"
 diagram: yes
 date: '2020-11-18'
+tag" "Book Review"
 math: no
 # Optional header image (relative to `static/media/` folder).
 header:
