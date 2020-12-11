@@ -4,7 +4,7 @@ diagram: yes
 date: '2020-11-18'
 math: no
 # header
-- image: "featured.jpg"
+image: 
   caption: 'Image credit: [**Markus Spiske**]'
   placement: 3
 ---
