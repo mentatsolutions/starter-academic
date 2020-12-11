@@ -3,10 +3,10 @@ title: "Coders - The Making of a New Tribe and the Remaking of the World (Book R
 diagram: yes
 date: '2020-11-18'
 math: no
-# header
-image: 
-  caption: 'Image credit: [**Markus Spiske**]'
-  placement: 3
+# Optional header image (relative to `static/media/` folder).
+header:
+  caption: ""
+  image: "featured.jpg"
 ---
 
 # The Beginnigs of Code:
