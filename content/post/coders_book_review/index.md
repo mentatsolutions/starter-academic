@@ -10,7 +10,7 @@ header:
   image: "featured.jpg"
 ---
 
-# The Beginnigs of Code:
+# The Beginnings of Code:
 
 I have recently finished reading **Coders: The Making of a New Tribe and the Remaking of the World**, a book written by **Clive Thompson** *(Penguin Press 2019)*.  The book is an excellent history of the rise of programmers and the influence they have in today’s society.   
 
