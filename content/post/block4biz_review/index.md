@@ -5,7 +5,7 @@ date: '2020-11-18'
 math: no
 # Optional header image (relative to `static/media/` folder).
 header:
-  caption: ""
+  caption: 'Image credit: [**Terry @blueskin**]'
   image: "featured.jpg"
 ---
 # Blockchain's Potential
