@@ -64,7 +64,7 @@ highlight_name: false
 # - Visitors
 ---
 Hello
-My name is Wendell White and I am a Bitcoin Analyst and Trading Researcher mostly using RStudio (and sometimes Python). I love learning about Bitcoin and other Cryptocurrencies, the statistical programming language R, Blockchain Analytics, and old school Martial Arts movies.
+My name is Wendell White and I am a Bitcoin Evangelist, Blockchain Analyst and Trading Researcher. I love learning about Bitcoin and other Cryptocurrencies, programming, Blockchain Analytics, and old school Martial Arts movies.
 
 I studied Petroleum Engineering and have worked all over the world on a variety of complex drilling projects. During the oil and gas downturn I discovered the world of Bitcoin and have been fascinated by it ever since. You can find me on Twitter and GitHub.
 
