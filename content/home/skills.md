@@ -37,6 +37,18 @@ subtitle = ""
   icon_pack = "fab"
   name = "Python"
   description = "40%"  
+
+[[feature]]
+  icon = "rust"
+  icon_pack = "fab"
+  name = "Rust"
+  description = "15%"
+
+[[feature]]
+  icon = "js"
+  icon_pack = "fab"
+  name = "JavaScript"
+  description = "15%"
   
 [[feature]]
   icon = "raspberry-pi"
