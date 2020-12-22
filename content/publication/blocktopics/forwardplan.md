@@ -16,7 +16,7 @@ header:
 This section of the website focuses on Blockchain Analytics.  As the amount of data processed by blockchains increases, it is vitally important to be able to analyze this data to glean as much useful information as possible.  Those who can extract and analyze data will have a significant competitive advantage over competitors that ignore blockchain data.
 
 ## Inspiration
-We will follow the excellent book **Blockchain Data Analytics for Dummies** written by **Michael G. Solomon, PhD** *(John Wiley & Sons, Inc. 2020*.
+We will follow the excellent book **Blockchain Data Analytics for Dummies** written by **Michael G. Solomon, PhD** *(John Wiley & Sons, Inc. 2020)*.
 Some of the topics covered in the book include:
 - Examine how blockchain technology is changing how data is used.
 - How to ingest Blockchain Data and build basic and advanced Blockchain Analysis Models.
