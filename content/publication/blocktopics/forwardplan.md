@@ -1,5 +1,5 @@
 ---
-title: "Coders - The Making of a New Tribe and the Remaking of the World (Book Review)"
+title: "Roadmap for Learning Blockchain Data Analytics"
 diagram: yes
 date: '2020-11-18'
 math: no
