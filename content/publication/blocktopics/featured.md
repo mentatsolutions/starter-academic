@@ -8,7 +8,7 @@ tag: "Blockchain"
 # Optional header image (relative to `static/media/` folder).
 header:
   caption: ""
-  image: "static/media/starring.jpg"
+  image: "static/media/featured.jpg"
 ---
 
 # Blockchain Analytics:
