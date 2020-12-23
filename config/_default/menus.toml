@@ -24,12 +24,12 @@
   weight = 40
 
 [[main]]
-  name = "Blog Posts"
+  name = "Blog"
   url = "#posts"
   weight = 50
 
 [[main]]
-  name = "Publications"
+  name = "Featured"
   url = "#featured"
   weight = 60
 
@@ -40,7 +40,7 @@
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/media/cv.pdf` and uncomment the lines below.
-# [[main]]
- #   name = "CV"
- #  url = "media/cv.pdf"
- #   weight = 80
+ [[main]]
+  name = "CV"
+  url = "media/cv.pdf"
+  weight = 80
