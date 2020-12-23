@@ -15,6 +15,11 @@ header:
 
 This section of the website focuses on Blockchain Analytics.  As the amount of data processed by blockchains increases, it is vitally important to be able to analyze this data to glean as much useful information as possible.  Those who can extract and analyze data will have a significant competitive advantage over competitors that ignore blockchain data.
 
+---
+{{< youtube 5kHCH6ZBJW8 >}} Understanding Blockchain Analytics (IBM)
+
+---
+
 ## Inspiration
 We will follow the excellent book **Blockchain Data Analytics for Dummies** written by **Michael G. Solomon, PhD** *(John Wiley & Sons, Inc. 2020)*.
 Some of the topics covered in the book include:
@@ -25,7 +30,7 @@ Some of the topics covered in the book include:
 
 ## Let's go...
 We will also build a dev environment on a Raspberry Pi 4 (just for some hardware fun!)
----
-{{< youtube 5kHCH6ZBJW8 >}} Understanding Blockchain Analytics (IBM)
 
+---
+![](bda_cover.jpg)
 ---
