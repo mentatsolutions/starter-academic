@@ -68,6 +68,6 @@ My name is Wendell White and I am a Bitcoin Evangelist, Blockchain Data Analyst 
 
 I studied Petroleum Engineering and have worked all over the world on a variety of complex drilling projects. During the oil and gas downturn I discovered the world of Bitcoin and have been fascinated by it ever since. You can find me on Twitter and GitHub.
 
-I live in the Mile High City of Denver, CO with my beautiful wife.
+I live in the Mile High City of Denver, CO.
 
 This blog is built with blogdown and Hugo, and deployed using Netlify. My blog posts are released under the Standard MIT License. Header photos by Markus Spiske on Unsplash. Bitcoin Logo photo by Michelle Henderson also on Unsplash
