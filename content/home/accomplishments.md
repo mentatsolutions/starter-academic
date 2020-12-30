@@ -19,6 +19,26 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[item]]
+  organization = "Blockchain Academy"
+  organization_url = "https://www.ivanontech.com"
+  title = "Bitcoin & Blockchain 101"
+  url = ""
+  certificate_url = "https://drive.google.com/file/d/1-X_PUTdvi9XcEBXz5JDDM2aalcoepL2M/view?usp=sharing"
+  date_start = "2020-011-01"
+  date_end = ""
+  description = ""
+
+[[item]]
+  organization = "Blockchain Academy"
+  organization_url = "https://www.ivanontech.com"
+  title = "Crypto For Beginners"
+  url = ""
+  certificate_url = "https://drive.google.com/file/d/1f5JEiksqFsEXRKR0pPshs5bOVoHxSuIJ/view?usp=sharing"
+  date_start = "2020-011-01"
+  date_end = ""
+  description = ""
+
+[[item]]
   organization = "Udacity"
   organization_url = "https://www.udacity.com"
   title = "AI Product Manager Nanodegree"
