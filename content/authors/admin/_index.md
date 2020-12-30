@@ -70,4 +70,4 @@ I studied Petroleum Engineering and have worked all over the world on a variety 
 
 I live in the Mile High City of Denver, CO.
 
-This blog is built with blogdown and Hugo, and deployed using Netlify. My blog posts are released under the Standard MIT license License. Header photos by Markus Spiske on Unsplash. Bitcoin Logo photo by Michelle Henderson also on Unsplash
+This blog is built with blogdown and Hugo, and deployed using Netlify. My blog posts are released under the Standard MIT License. Header photos by Markus Spiske on Unsplash. Bitcoin Logo photo by Michelle Henderson also on Unsplash
