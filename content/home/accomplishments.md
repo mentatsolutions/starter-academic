@@ -27,7 +27,7 @@ date_format = "Jan 2006"
   certificate_url = "https://drive.google.com/file/d/1IYJnUQ5MDbSkhyrdux9vYxZRD-JQZOyl/view?usp=sharing"
   date_start = "2021-03-01"
   date_end = ""
-  description = """
+  description = ""
   
 [[item]]
   organization = "Blockchain Academy"
