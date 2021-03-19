@@ -33,13 +33,13 @@ subtitle = ""
   description = "80%"
   
 [[feature]]
-  icon = "fa-react"
+  icon = "react"
   icon_pack = "fab"
   name = "React.js"
   description = "55%"
   
 [[feature]]
-  icon = "fa-node-js"
+  icon = "node-js"
   icon_pack = "fab"
   name = "Node.js"
   description = "60%"
