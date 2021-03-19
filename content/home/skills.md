@@ -33,23 +33,17 @@ subtitle = ""
   description = "60%"
   
 [[feature]]
-  icon = "python"
-  icon_pack = "fab"
-  name = "Python"
-  description = "40%"  
-
-[[feature]]
-  icon = "rust"
-  icon_pack = "fab"
-  name = "Rust"
-  description = "15%"
-
-[[feature]]
   icon = "js"
   icon_pack = "fab"
   name = "JavaScript"
-  description = "15%"
+  description = "55%"
   
+[[feature]]
+  icon = "python"
+  icon_pack = "fab"
+  name = "Python"
+  description = "20%"  
+ 
 [[feature]]
   icon = "raspberry-pi"
   icon_pack = "fab"
