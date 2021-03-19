@@ -15,28 +15,34 @@ subtitle = ""
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
 
 [[feature]]
-  icon = "r-project"
-  icon_pack = "fab"
-  name = "R"
-  description = "90%"
-  
-[[feature]]
   icon = "btc"
   icon_pack = "fab"
   name = "Bitcoin"
-  description = "80%"
-  
+  description = "90%"
+
 [[feature]]
-  icon = "linux"
+  icon = "r-project"
   icon_pack = "fab"
-  name = "Linux"
-  description = "60%"
+  name = "R"
+  description = "85%"
   
 [[feature]]
   icon = "js"
   icon_pack = "fab"
   name = "JavaScript"
+  description = "80%"
+  
+[[feature]]
+  icon = "fa-react"
+  icon_pack = "fab"
+  name = "React.js"
   description = "55%"
+  
+[[feature]]
+  icon = "fa-node-js"
+  icon_pack = "fab"
+  name = "Node.js"
+  description = "60%"
   
 [[feature]]
   icon = "python"
