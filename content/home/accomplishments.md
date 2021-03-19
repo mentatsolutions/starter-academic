@@ -22,6 +22,16 @@ date_format = "Jan 2006"
 [[item]]
   organization = "Blockchain Academy"
   organization_url = "https://www.ivanontech.com"
+  title = "Javascript Programming for Blockchain Developers"
+  url = ""
+  certificate_url = "https://drive.google.com/file/d/1IYJnUQ5MDbSkhyrdux9vYxZRD-JQZOyl/view?usp=sharing"
+  date_start = "2021-03-01"
+  date_end = ""
+  description = """
+  
+[[item]]
+  organization = "Blockchain Academy"
+  organization_url = "https://www.ivanontech.com"
   title = "Bitcoin Programming 101"
   url = ""
   certificate_url = "https://drive.google.com/file/d/1AU1qbhNs4IZ9iczNCZbRBhfL_3jScEDk/view?usp=sharing"
