@@ -18,7 +18,7 @@ subtitle:
 design:
   columns: "1"
   background:
-    image: opendime.jpg
+    image: /opendime.jpg
     image_darken: 0.5
     image_parallax: true
     image_position: center
