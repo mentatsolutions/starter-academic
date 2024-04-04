@@ -21,6 +21,12 @@ subtitle = ""
   description = "90%"
 
 [[feature]]
+  icon = "eth"
+  icon_pack = "fab"
+  name = "Ethereum"
+  description = "88%"
+
+[[feature]]
   icon = "r-project"
   icon_pack = "fab"
   name = "R"
@@ -51,9 +57,9 @@ subtitle = ""
   description = "20%"  
  
 [[feature]]
-  icon = "raspberry-pi"
+  icon = "solidity"
   icon_pack = "fab"
-  name = "Raspberry Pi"
+  name = "Solidity"
   description = "15%"
 
 [[feature]]
