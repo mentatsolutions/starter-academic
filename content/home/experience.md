@@ -18,6 +18,21 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
+  title = "Teaching Assistant"
+  company = "edX"
+  company_url = ""
+  location = "Colorado"
+  date_start = "2022-01-01"
+  date_end = ""
+  description = """
+  Responsibilities include:
+  
+  * Teaching Assistant for the 24-week AI Bootcamp held at the University of Utah (2023)
+  * Teaching Assistant for the 24-week Fintech Bootcamp held at the University of Denver (2022)
+  * Executive Education Courses
+  """
+
+[[experience]]
   title = "Data Analyst"
   company = "Mentat Solutions LLC"
   company_url = ""
