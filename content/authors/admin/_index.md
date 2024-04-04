@@ -14,13 +14,14 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My interests include Bitcoin Technology, Algorithmic Trading Research, and Blockchain Analytics.
+bio: My interests include Blockchain Technology, Algorithmic Trading Research, and Blockchain Analytics.
 
 interests:
-- Bitcoin Technology
+- Blockchain Technology
+- Solidity, Vyper, Smart Contracts
 - Algorithmic Trading
 - Blockchain Analytics
-- RStudio, RShiny, TidyVerse
+- Web3
 
 education:
   courses:
@@ -64,7 +65,7 @@ highlight_name: false
 # - Visitors
 ---
 Hello
-My name is Wendell White and I am a Bitcoin Evangelist, Data Analyst and Trading Researcher. I love learning about Bitcoin and other Cryptocurrencies, programming, Data Analytics, and old school Martial Arts movies.
+My name is Wendell White and I am a Blockchain Enthusiast, Data Analyst and Trading Researcher. I love learning about Blockchains, Tokenomics, programming, Data Analytics, and old school Martial Arts movies.
 
 I studied Petroleum Engineering and have worked all over the world on a variety of complex drilling projects. During the recent oil and gas downturn I discovered the world of Bitcoin and have been fascinated by it ever since. You can find me on Twitter and GitHub.
 
