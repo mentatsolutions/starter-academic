@@ -18,6 +18,25 @@ date_format = "Jan 2006"
 #   Leave other parameters empty if not required.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
+[[item]]
+  organization = "Coursera"
+  organization_url = "https://www.coursera.com"
+  title = "Google E-Commerce & Digital Marketing  Professional Certificate"
+  url = ""
+  certificate_url = ""
+  date_start = "2024-03-01"
+  date_end = ""
+  description = ""
+
+[[item]]
+  organization = "Coursera"
+  organization_url = "https://www.coursera.com"
+  title = "Google Business Intelligence Professional Certificate"
+  url = ""
+  certificate_url = ""
+  date_start = "2024-01-01"
+  date_end = ""
+  description = ""
 
 [[item]]
   organization = "Blockchain Academy"
